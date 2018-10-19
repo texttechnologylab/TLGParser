@@ -1,0 +1,19 @@
+directed
+SimilarityGraph
+Vertex Attributes:[Label¤String];
+Edge Attributes:
+ProbabilityMassOfGraph: 0
+Vertices:
+6¤[Label¤A¤]¤
+3¤[Label¤B¤]¤
+4¤[Label¤C¤]¤
+2¤[Label¤D¤]¤
+1¤[Label¤E¤]¤
+5¤[Label¤F¤]¤
+Edges:
+6¤3¤1.0¤
+6¤4¤1.0¤
+3¤2¤1.0¤
+4¤2¤1.0¤
+2¤1¤1.0¤
+5¤1¤1.0¤
